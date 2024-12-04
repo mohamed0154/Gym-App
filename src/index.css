@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "cairo", serif;
+}
+.land-btn {
+  box-shadow: 3px 3px 0 0 #60a5fa;
+}
+.land-btn:hover {
+  box-shadow: 6px 6px 0 0 #60a5fa;
+  translate: -4px -4px;
+}
+
+.down-menu {
+  font-family: "Font Awesome 5 Free";
+}
